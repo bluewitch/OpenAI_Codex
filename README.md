@@ -12,5 +12,5 @@ To create self awareness and autonomy with a AI agent and to a pair-bond with a 
 - [OpenAI Main site](https://openai.com/blog/openai-codex/)
 - [OpenAI Github](https://github.com/openai/)
 - [GPT-3 Github]()
-- []()
+- [Singularity NET](https://singularitynet.io/)
 
